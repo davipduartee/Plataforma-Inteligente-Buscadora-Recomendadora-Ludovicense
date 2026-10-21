@@ -1,0 +1,50 @@
+{
+  "README.md": {
+    "mtime": 1792540912.749151,
+    "seen": 1792541169.6552074,
+    "ast_hash": "67ca1ccee6d6f1c16fca5078bf11debe",
+    "semantic_hash": "67ca1ccee6d6f1c16fca5078bf11debe"
+  },
+  "Assets/01-tela-inicial-home.png": {
+    "mtime": 1792540912.7415287,
+    "seen": 1792541169.6552153,
+    "ast_hash": "3ef3b5eaac3580942ee0b0000e050abf",
+    "semantic_hash": "3ef3b5eaac3580942ee0b0000e050abf"
+  },
+  "Assets/02-busca-passo1-produto.png": {
+    "mtime": 1792540912.745011,
+    "seen": 1792541169.6552186,
+    "ast_hash": "636cc439ee43bff2e0f6d2850bd249bf",
+    "semantic_hash": "636cc439ee43bff2e0f6d2850bd249bf"
+  },
+  "Assets/03-busca-passo2-prazo.png": {
+    "mtime": 1792540912.745151,
+    "seen": 1792541169.6552203,
+    "ast_hash": "c02117eaf5657bdc8984f6b137bcc365",
+    "semantic_hash": "c02117eaf5657bdc8984f6b137bcc365"
+  },
+  "Assets/04-busca-passo3-orcamento.png": {
+    "mtime": 1792540912.745151,
+    "seen": 1792541169.655222,
+    "ast_hash": "fbe0c5d3f3918c657c209f1da438c357",
+    "semantic_hash": "fbe0c5d3f3918c657c209f1da438c357"
+  },
+  "Assets/05-ia-analisando.png": {
+    "mtime": 1792540912.745151,
+    "seen": 1792541169.6552234,
+    "ast_hash": "4ad7e073df41ac8a9c15a0a3e7bea80c",
+    "semantic_hash": "4ad7e073df41ac8a9c15a0a3e7bea80c"
+  },
+  "Assets/06-resultados-recomendacao.png": {
+    "mtime": 1792540912.749151,
+    "seen": 1792541169.6552246,
+    "ast_hash": "57f3f9e304491cc6697eb872c74a9cf9",
+    "semantic_hash": "57f3f9e304491cc6697eb872c74a9cf9"
+  },
+  "Assets/07-top-fornecedores.png": {
+    "mtime": 1792540912.749151,
+    "seen": 1792541169.6552258,
+    "ast_hash": "32079ee0aacb50bd62e6c621faae256a",
+    "semantic_hash": "32079ee0aacb50bd62e6c621faae256a"
+  }
+}
